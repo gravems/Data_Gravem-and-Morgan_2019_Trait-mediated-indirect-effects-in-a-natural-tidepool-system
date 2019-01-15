@@ -1,6 +1,6 @@
 # Data_Trait-mediated indirect effects in a natural tidepool system
 
-# Dataset: TidepoolSurveys
+# Dataset: TidepoolSurveys_Public
 # Methods
 To determine whether Leptasterias and Tegula were associated with one another and whether refuge use by snails was associated with sea star density, we surveyed 63 small mid to high intertidal tidepools between 6 to14-Jul-2009 in Horseshoe Cove, located within the Bodega Marine Reserve in northern California (38 degrees 19’ N, 123 degrees 14’ W). We calculated the densities of sea stars and snails as individuals per liter (tide pool volume methods described below), which allowed comparisons among tidepools of different size and served as a proxy for chemical cue concentration of predators. We also counted Tegula in refuge habitats, which we termed the “halo” and defined as a <15 cm band of emersed rock encircling each tidepool. Leptasterias do not occur in halos during low tide at this site, presumably due to physiological stress. 
 
