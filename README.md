@@ -6,7 +6,7 @@ To determine whether Leptasterias and Tegula were associated with one another an
 
 To test whether sea stars, snails, and other invertebrates were associated with the algal community structure and with abiotic factors, we surveyed macroinvertebrates and algae in the same 63 tidepools described above. We estimated cover of common macroalgal species by placing a large gridded quadrat (1 x 1.5 m with 2 x 2 cm cells) over each tidepool and tallying cells >50% occupied by a given species or bare space (double occupancy was allowed). We calculated the percent cover for each species by dividing the surface area of occupied cells by the surface area of the tidepool (calculated from photos in Image J). We calculated the densities of macroinvertebrates as individuals per liter. For each tide pool, shore level at the surface (Mean +/- SD: 1.41 +/- 0.36m above MLLW; range: 0.60 - 2.25m above MLLW) was measured using surveying equipment and USGS benchmarks. Volume (Mean +/- SD: 21.57 +/- 21.59L; range: 1.2 -107.1L) was determined by measuring water manually pumped from tidepools. Average depth (Mean +/- SD: 9.2 +/- 5.5cm range:3.2 - 38.6cm) was calculated from 5 random depth measurements. Perimeter (Mean +/- SD: 2.66 +/- 0.95m; range: 1.04 - 4.75m) and surface area (Mean +/- SD: 0.216 +/- 0.137m2; range: 0.051 – 0.611m2) were quantified from digital photographs using ImageJ software.
 
-# Datasets: ShortTermExpts, LongTermExpts, Algae
+# Datasets: ShortTermExpts_Public, LongTermExpts_Public, Macroalgae_Public, Microalgae_Public
 # Methods
 Experimental manipulations
 
