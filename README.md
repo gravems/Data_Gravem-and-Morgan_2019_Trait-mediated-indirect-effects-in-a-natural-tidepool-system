@@ -1,4 +1,10 @@
-# Data_Trait-mediated indirect effects in a natural tidepool system
+# Data_Gravem and Morgan_2019_Trait-mediated indirect effects in a natural tidepool system
+Citation: Gravem, S.A. and S.G. Morgan. 2019. Trait-mediated indirect effects in a natural tidepool system. Marine Biology. DOI: 10.1007/s00227-019-3469-5
+Contact: 
+Sarah Gravem, Dept of Integrative Biology, 3029 Cordley Hall, Oregon State University, Corvallis OR 97331, USA
+gravems@oregonstate.edu, https://www.sarahgravem.com
+Steven Morgan, Bodega Marine Laboratory, PO Box 247, Bodega Bay, CA 94923, USA
+sgmorgan@ucdavis.edu
 
 # Dataset: TidepoolSurveys_Public
 # Methods
